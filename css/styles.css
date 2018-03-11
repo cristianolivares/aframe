@@ -1,0 +1,24 @@
+.secciones{
+    display: flex;
+    border-radius: 2rem;
+    background-color: #42C4FF;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.cajas{
+    display: flex;
+    width: 14rem;
+    height: 12rem;
+    background-color: white;
+    border-radius: 2.5rem;
+    border: 0.5rem solid #FF9D29;
+    padding: 1rem;
+    
+}
+.iconos{
+    width: 5rem;
+    height: 5rem;  
+    display: flex;
+    justify-content: center;   
+}
